@@ -9,7 +9,7 @@ def read_version():
 
 
 setup(
-    name="credit-risk",
+    name="credit_risk",
     version="0.1.0",
     author="Glenn Asher",
     description="Credit-risk modelling pipeline with fairness auditing",
@@ -32,7 +32,7 @@ setup(
     ],
     entry_points = {
         "console_scripts":[
-            "credit-risk = credit_risk.cli:cli",
+        #   "credit-risk = credit_risk.cli:cli",    #to return to this later
         ],
     },
     classifiers=[
