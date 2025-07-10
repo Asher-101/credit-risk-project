@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+fairlearn
+aif360
+shap
+fastapi
+uvicorn
+streamlit
+pytest
+black
+flake8
