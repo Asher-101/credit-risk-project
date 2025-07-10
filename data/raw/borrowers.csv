@@ -1,0 +1,6 @@
+annual_income,employment_length,credit_score,age,debt_to_income,default
+50000,5,700,34,0.2,0
+60000,10,650,45,0.35,1
+55000,2,720,29,0.18,0
+70000,7,680,52,0.4,1
+80000,15,710,60,0.25,0

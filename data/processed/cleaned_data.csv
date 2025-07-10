@@ -1,0 +1,6 @@
+annual_income,employment_length,credit_score,age,debt_to_income,default,dti_pct,emp_bin_1-5,emp_bin_5-10,emp_bin_10-20,emp_bin_20+,age_bin_25-34,age_bin_35-44,age_bin_45-54,age_bin_55-64,age_bin_65+
+50000,5,700,34,0.2,0,20.0,True,False,False,False,True,False,False,False,False
+60000,10,650,45,0.35,1,35.0,False,True,False,False,False,True,False,False,False
+55000,2,720,29,0.18,0,18.0,True,False,False,False,True,False,False,False,False
+70000,7,680,52,0.4,1,40.0,False,True,False,False,False,False,True,False,False
+80000,15,710,60,0.25,0,25.0,False,False,True,False,False,False,False,True,False

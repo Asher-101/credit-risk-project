@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: credit-risk
+Version: 0.1.0
+Summary: Credit-risk modelling pipeline with fairness auditing
+Author: Glenn Asher
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: fairlearn
+Requires-Dist: shap
+Requires-Dist: joblib
+Requires-Dist: streamlit
+Requires-Dist: numpy
+Requires-Dist: aif360
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pytest
+Requires-Dist: black
+Requires-Dist: flake8
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
