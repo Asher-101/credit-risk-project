@@ -76,6 +76,8 @@ streamlit run dashboard/app.py
 ```
 
 Navigate to the URL printed in the console (usually http://localhost:8501).
+---
+
 
 ## Deployment on streamlit cloud
 
