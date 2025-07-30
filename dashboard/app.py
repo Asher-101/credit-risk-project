@@ -1,3 +1,14 @@
+#import os, sys
+
+## ensure top-level src/ and the vendored dashboard/credit_risk/ are on sys.path
+#root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+#src = os.path.join(root, "src")
+#vend = os.path.join(os.path.dirname(__file__), "credit_risk")
+
+#for p in (src, vend):
+#    if os.path.isdir(p) and p not in sys.path:
+#       sys.path.insert(0, p)
+
 import streamlit as st
 import joblib
 import pandas as pd
